@@ -1,5 +1,5 @@
 # code here!
-def initialized (School)
+def initialized (school)
  @name=name
  name
 end
