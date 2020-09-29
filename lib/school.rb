@@ -3,4 +3,4 @@ def school
   @school=school
   school
 end
-school.roster 
+school.roster
