@@ -1,6 +1,5 @@
 # code here!
-def school
-  @school=school
-  school
-end
-school.roster
+def initialized (name)
+ @name=name
+ name 
+end 
